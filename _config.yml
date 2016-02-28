@@ -1,6 +1,6 @@
 name: Relikon SEO
 favicon: null
-layout_spectrum: 0.07912402739748359
+layout_spectrum: 1
 typography_spectrum: 0.9139168621040881
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#0142ff'
+    - '#515151'
+    - '#0016b3'
+    - '#3f85ff'
   brandStrength: 0.8125
   lightness: 0.08677333104424179
   saturation: 0.6427792203612626
