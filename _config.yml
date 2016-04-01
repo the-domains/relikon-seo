@@ -1,7 +1,7 @@
 name: Relikon SEO
 favicon: null
-layout_spectrum: 0.7456
-typography_spectrum: 0.46186
+layout_spectrum: 0.97162
+typography_spectrum: 0.25833
 title: SEO consulting and developement
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#00ffff'
     - '#ff00ff'
     - '#ffc000'
-  brandStrength: 0.75
-  lightness: 0.1875
-  saturation: 0.3125
+  brandStrength: 0.5625
+  lightness: 0.5625
+  saturation: 0.4375
   rhythmicContrast: 0.75
 purpose: []
